@@ -1,4 +1,4 @@
-# quick_app_name
+# 4 Letter Random Name Generator 
 The super fast 4 letter app name generator. No BS. 
 
-[DEMO](http://rahulpatle101.github.io/quick_app_name/)
+[DEMO](http://rahulpatle101.github.io/App-Name-Generator/)
